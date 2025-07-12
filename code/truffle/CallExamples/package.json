@@ -13,7 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "dotenv": "^5.0.1",
-    "ethereumjs-wallet": "^0.6.0",
+    "ethereumjs-wallet": "^1.0.2",
     "truffle-wallet-provider": "0.0.5"
   }
 }
