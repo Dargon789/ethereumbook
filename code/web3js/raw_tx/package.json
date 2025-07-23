@@ -11,6 +11,6 @@
   "dependencies": {
     "ethereumjs-tx": "^2.0.0",
     "ethereumjs-util": "^5.1.5",
-    "rlp": "^2.0.0"
+    "rlp": "^3.0.0"
   }
 }
